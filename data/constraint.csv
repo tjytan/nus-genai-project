@@ -1,0 +1,20 @@
+keyword,type,value
+vegetarian,diet,vegetarian
+vegan,diet,vegan
+pescatarian,diet,pescatarian
+keto,diet,keto
+paleo,diet,paleo
+gluten-free,restriction,gluten-free
+dairy-free,restriction,dairy-free
+nut-free,restriction,nut-free
+soy-free,restriction,soy-free
+low-carb,goal,low-carb
+weight loss,goal,weight loss
+weight gain,goal,weight gain
+muscle gain,goal,muscle gain
+heart health,goal,heart health
+3-day,duration,3
+5-day,duration,5
+7-day,duration,7
+14-day,duration,14
+30-day,duration,30
